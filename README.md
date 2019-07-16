@@ -1,2 +1,3 @@
-# Hp
-practicing the git 
+# maven-project
+
+Simple Maven Project
